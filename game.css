@@ -1,0 +1,48 @@
+#mydiv2 {
+    float: left;
+    clear: both;
+    background-color:black;
+    background-size: 500;
+    height:650px;
+    width:500px;
+}
+
+#mydiv {
+    float: right;
+    text-align: center;
+    background-image: url("mountain.jpg");
+    background-size: cover;
+    height: 610px;
+    width:540;
+    z-index: 1;
+    border-style: groove;
+    
+}
+
+#P1DIV {
+    height:100;
+}
+
+#P2DIV {
+    height:100;
+}
+
+img {
+    width: 600px;
+    height:650;
+}
+
+body {
+    background-color: black;
+}
+
+#ME {
+    padding-left: 200;
+    text-emphasis-style: bold;
+    border-style: ridge;
+}
+
+#P {
+    height:610px;
+    width: 500px;
+}
